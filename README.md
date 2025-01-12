@@ -6,6 +6,6 @@
 
 ## Information
 
-Learning about **Git** Actions 
+Learning about **Git** Actions.
 
 [My Github profile](https://github.com/TeeDjaay99)
