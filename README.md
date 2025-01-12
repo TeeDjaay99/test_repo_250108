@@ -6,6 +6,6 @@
 
 ## Information
 
-This is a repo I'm testing. This is **bold** and **italic**
+Learning about **Git** Actions 
 
 [My Github profile](https://github.com/TeeDjaay99)
